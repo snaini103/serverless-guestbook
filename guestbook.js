@@ -1,7 +1,7 @@
 /**
  * Web application
  */
-const apiUrl = 'https://us-south.functions.appdomain.cloud/api/v1/web/Coursera%20student%20SN_Coursera%20student%20SN%20cloud%20foundry%20space/guestbook/read-guestbook-entries-sequence';
+const apiUrl = 'https://us-south.functions.appdomain.cloud/api/v1/web/24471d8c-2ee9-40c7-bda5-548137db7bdc/guestbook';
 const guestbook = {
   // retrieve the existing guestbook entries
   get() {
